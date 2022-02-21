@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+            xml:lang="es"
+            xml:base="https://github.com/a21samope/trabajos">
+  
+    <title>Novedades Mundo del Futbol</title>
+    <link href="https://github.com/a21samope/trabajos"></link>
+    <updated>2022-02-16T18:00:00Z</updated>
+    <author>
+      <name>Pedro Maria Sanchez</name>    
+    </author>
+    <id>https://github.com/a21samope/trabajos</id>
+    <category term="sports"/>
+    <rights type="html">copy; 2020 Pedro Sanchez</rights>
+    
+    <entry>
+    <id>https://www.rfef.es/noticias/competiciones/copa-del-rey</id>
+    <link rel="alternate" href="https://www.rfef.es/noticias/competiciones/copa-del-rey"></link>
+    <title>Copa del Rey</title>
+    <update>2022-02-16T12:00:00Z</update>
+    <summary>Aquí podrá ver las últimas noticias actualizadas de la actual copa del rey Temporada 2021/22</summary>
+    <link rel="enclosure" type="imagen/png" title="Copa" href="https://www.freepng.es/png-vcwdnf/" length="1234"></link>
+    
+    </entry>
+    
+    <entry>
+    <id>https://www.laliga.com/</id>
+    <link rel="alternate" href="https://www.laliga.com/"></link>
+    <title>La Liga</title>
+    <update>2022-02-16T12:00:00Z</update>
+    <link rel="enclosure" type="imagen/png" title="Liga" href="https://www.laliga.com/"></link>
+    <content type="xhtml">
+        <div xmlns="https://github.com/a21samope/trabajos">
+          <h1>Clasificacion</h1>
+            <ul>
+              <li>Primero - Real Madrid</li>
+              <li>Segundo - Sevilla</li>
+              <li>Tercero - Betis</li>
+              <li>Cuarto - Barcelona</li> 
+            </ul>        
+        </div>
+    </content>
+    </entry>
+    
+    <entry>
+    <id>https://www.premierleague.com/</id> 
+    <link rel="alternate" href="https://www.premierleague.com/"></link>
+    <title>Premier League</title>
+    <update>2022-02-16T12:00:00Z</update>
+    <summary>Aqui podremos encontrar las ultimas noticias actulizadas de la temporada 2021/22 de la actual liga inglesa, tanto clasificacion, calendario de partidos,etc...</summary>
+
+    <link rel="enclosure" type="aplication/pdf" title="Premier" href="./PDFATOM"></link>
+  </entry>
+  
+  <entry>
+    <id>https://es.uefa.com/uefachampionsleague/</id>
+    <link rel="alternate" href="https://es.uefa.com/uefachampionsleague/"></link>
+    <title>Champions League</title>
+    <update>2022-02-16T12:00:00Z</update>
+    <summary>Aqui podremos encontrar las ultimas noticias actulizadas de la temporada 2021/22 de la actual liga de las estrellas, tanto las rondas eliminatorias, calendario de partidos,etc...</summary>
+    <link rel="enclosure" title="Champions" href="/HimnoUEFAChampionsLeague.mp3"></link>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  </entry>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</feed>
